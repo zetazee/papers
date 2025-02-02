@@ -213,3 +213,6 @@ _notice that bacteria are living a 3D life and not a 2D view you see under a mic
         - phages of Calobacter and Asticcacauli can’t affect them.
         - dna base composition value: 54.6 to 60.1/
 - then they propose it as a new genus and discuss naming.
+
+
+[the original paper](https://github.com/user-attachments/files/18633056/BF00394132.pdf)
